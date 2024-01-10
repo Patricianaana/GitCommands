@@ -18,7 +18,7 @@ how to track a file: git add name of the file.
 
 how to untrack a file: git rm --cached name of the file.
 
-how to restore a deleted file: git restore git name of the file.
+how to restore a deleted file: git restore name of the file.
 
 how to clear working area: clear.
 
