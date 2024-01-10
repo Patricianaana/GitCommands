@@ -12,7 +12,7 @@ change directory: cd location of the file or directory
 
 create or initialize a repository: git init
 
-see the status of a repository: git status.
+use the following command to view the status of a repository: git status.
 
 how to track a file: git add name of the file.
 
