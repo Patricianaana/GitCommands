@@ -20,7 +20,7 @@ how to untrack a file: git rm --cached name of the file.
 
 how to restore a deleted file: git restore name of the file.
 
-how to clear working area: clear.
+how to clear the command prompt: clear.
 
 how to track all files: git add --all or git add . or git -A
 
