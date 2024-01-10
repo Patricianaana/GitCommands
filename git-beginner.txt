@@ -30,7 +30,7 @@ to view commit history: git log
 
 to view a short version of commit history: git log --oneline
 
-git log -p
+git log -p: to view the details of changes that were.q
 
 to create a new branch: git branch name of the branch
 
