@@ -26,5 +26,28 @@ how to track all files: git add --all or git add . or git -A
 
 to commit means to take a snapshot of your repository at a point in time.
 
+to view commit history: git log 
+
+to view a short version of commit history: git log --oneline
+
+git log -p
+
+to create a new branch: git branch name of the branch
+
+to view all branches: git branch
+
+to switch branches: git switch name of the branch
+
+to commit: git commit -a -m "some message, not needed always"
+
+to merge changes in two braches: git merge -m "some message" branch name.
+
+to delete a branch: git branch -d branch name.
+
+to create and switch to a new branch: git branch -c branch name
+
+
+
+
 
 
