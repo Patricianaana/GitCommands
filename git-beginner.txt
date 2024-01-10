@@ -1,0 +1,26 @@
+add username: git config --global user.name "Tricia Kim"
+
+add email: git config --global user.email triciapany6@gmail.com
+
+add default branch: git config --global init.default branch main
+
+get help: git config -h
+
+help mannual: git help config 
+
+change directory: cd location of the file or directory
+
+create or initialize a repository: git init
+
+see the status of a repository: git status.
+
+how to track a file: git add name of the file.
+
+how to untrack a file: git rm --cached name of the file.
+
+how to restore a deleted file: git restore git name of the file.
+
+how to clear working area: clear.
+
+how to track all files: git add --all or git add.
+
